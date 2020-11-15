@@ -1,5 +1,5 @@
 # Neon-Original-gtk
-Neon-Original is a Flat Design theme for GNOME/GTK based desktop environments.
+Neon-Original is a Neon Design theme for GNOME/GTK based desktop environments.
 
 It supports GTK 2, GTK 3, GNOME Shell, Budgie, Cinnamon, MATE, Unity, Xfce etc.
 
